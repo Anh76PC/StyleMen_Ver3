@@ -1,0 +1,1 @@
+ D:\\MenStyle3-new2\\.dart_tool\\flutter_build\\59f4c3c753791755e60642b96b72dc58\\native_assets.json: 
